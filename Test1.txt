@@ -1,3 +1,3 @@
 This is empty file.
-This line is added from remote that is GitHub.
-This line is added from local.
+This line is added from remote that is GitHub second time.
+
