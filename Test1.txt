@@ -1,4 +1,3 @@
 This is empty file.
 This line is added from local second time.
 This line is added from remote that is GitHub second time.
-To check revert pushed commit 
